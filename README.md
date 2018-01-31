@@ -1,0 +1,3 @@
+# videogular-ionic-template
+
+WIP :)
